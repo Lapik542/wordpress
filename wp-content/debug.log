@@ -1,0 +1,96 @@
+[18-Mar-2025 12:00:46 UTC] Функція generate_or_update_pages_from_json викликається
+[18-Mar-2025 12:00:46 UTC] Функція запущена
+[18-Mar-2025 12:00:46 UTC] Зроблено запит до: https://state-haulex.vercel.app/state.json?1742299246
+[18-Mar-2025 12:00:46 UTC] Отримано відповідь: {
+  "states": [
+    {
+      "slug": "florida",
+      "name": "florida",
+      "info": "florida is known for its beaches, theme parks, and warm climate."
+    },
+    {
+      "slug": "illinois",
+      "name": "Illinois",
+      "info": "Illinois is famous for Chicago, its skyscrapers, and rich history."
+    },
+    {
+      "slug": "new-york",
+      "name": "New York",
+      "info": "New York is known for its cultural diversity and the city that never sleeps."
+    },
+    {
+      "slug": "pennsylvania",
+      "name": "Pennsylvania",
+      "info": "Pennsylvania is known for its rich history and beautiful landscapes."
+    }
+  ]
+}
+
+[18-Mar-2025 12:00:46 UTC] HTML контент сторінки florida: <div class="state-page-container">
+			<h1 class="state-title">florida</h1>
+			<p class="state-info">florida is known for its beaches, theme parks, and warm climate.</p>
+		</div>
+[18-Mar-2025 12:00:46 UTC] Оновлено сторінку: florida
+[18-Mar-2025 12:00:46 UTC] HTML контент сторінки illinois: <div class="state-page-container">
+			<h1 class="state-title">Illinois</h1>
+			<p class="state-info">Illinois is famous for Chicago, its skyscrapers, and rich history.</p>
+		</div>
+[18-Mar-2025 12:00:46 UTC] Оновлено сторінку: Illinois
+[18-Mar-2025 12:00:46 UTC] HTML контент сторінки new-york: <div class="state-page-container">
+			<h1 class="state-title">New York</h1>
+			<p class="state-info">New York is known for its cultural diversity and the city that never sleeps.</p>
+		</div>
+[18-Mar-2025 12:00:46 UTC] Оновлено сторінку: New York
+[18-Mar-2025 12:00:46 UTC] HTML контент сторінки pennsylvania: <div class="state-page-container">
+			<h1 class="state-title">Pennsylvania</h1>
+			<p class="state-info">Pennsylvania is known for its rich history and beautiful landscapes.</p>
+		</div>
+[18-Mar-2025 12:00:46 UTC] Оновлено сторінку: Pennsylvania
+[18-Mar-2025 12:04:39 UTC] Функція generate_or_update_pages_from_json викликається
+[18-Mar-2025 12:04:39 UTC] Функція запущена
+[18-Mar-2025 12:04:39 UTC] Зроблено запит до: https://state-haulex.vercel.app/state.json?1742299479
+[18-Mar-2025 12:04:39 UTC] Отримано відповідь: {
+  "states": [
+    {
+      "slug": "florida",
+      "name": "florida",
+      "info": "florida is known for its beaches, theme parks, and warm climate."
+    },
+    {
+      "slug": "illinois",
+      "name": "Illinois",
+      "info": "Illinois is famous for Chicago, its skyscrapers, and rich history."
+    },
+    {
+      "slug": "new-york",
+      "name": "New York",
+      "info": "New York is known for its cultural diversity and the city that never sleeps."
+    },
+    {
+      "slug": "pennsylvania",
+      "name": "Pennsylvania",
+      "info": "Pennsylvania is known for its rich history and beautiful landscapes."
+    }
+  ]
+}
+
+[18-Mar-2025 12:04:39 UTC] HTML контент сторінки florida: <div class="state-page-container">
+			<h1 class="state-title">florida</h1>
+			<p class="state-info">florida is known for its beaches, theme parks, and warm climate.</p>
+		</div>
+[18-Mar-2025 12:04:39 UTC] Оновлено сторінку: florida
+[18-Mar-2025 12:04:39 UTC] HTML контент сторінки illinois: <div class="state-page-container">
+			<h1 class="state-title">Illinois</h1>
+			<p class="state-info">Illinois is famous for Chicago, its skyscrapers, and rich history.</p>
+		</div>
+[18-Mar-2025 12:04:39 UTC] Оновлено сторінку: Illinois
+[18-Mar-2025 12:04:39 UTC] HTML контент сторінки new-york: <div class="state-page-container">
+			<h1 class="state-title">New York</h1>
+			<p class="state-info">New York is known for its cultural diversity and the city that never sleeps.</p>
+		</div>
+[18-Mar-2025 12:04:39 UTC] Оновлено сторінку: New York
+[18-Mar-2025 12:04:39 UTC] HTML контент сторінки pennsylvania: <div class="state-page-container">
+			<h1 class="state-title">Pennsylvania</h1>
+			<p class="state-info">Pennsylvania is known for its rich history and beautiful landscapes.</p>
+		</div>
+[18-Mar-2025 12:04:39 UTC] Оновлено сторінку: Pennsylvania
