@@ -1,5 +1,4 @@
 <?php
- phpinfo();
 /**
  * Edit Site Info Administration Screen
  *
